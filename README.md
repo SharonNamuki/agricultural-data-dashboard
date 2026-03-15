@@ -79,8 +79,8 @@ Exploratory Data Analysis (EDA) was conducted to identify patterns and trends in
 
 #### 4. Visualization and Dashboard Development
 
-Data visualization tools were used to generate charts and dashboards that communicate key insights about agricultural production trends.
-
+Data visualization tools were used to generate charts and dashboards that communicate key insights about agricultural production trends as shown below.
+http://localhost:8888/tree/Images
 ### Technologies Used
 
 This project uses the following technologies:
@@ -103,12 +103,13 @@ Seaborn
 
 #### Dashboard Tools
 
-Tableau or Power BI
+Tableau 
+https://public.tableau.com/app/profile/sharon.nyakeya/viz/east_africa_agriculture_dashboard/Dashboard1
 
 Development Environment
 
 Jupyter Notebook
-
+http://localhost:8888/notebooks/East_Africa_Agriculture_Analysis.ipynb
 Version Control
 
 GitHub
@@ -119,7 +120,7 @@ The project includes several visualizations designed to highlight important agri
 
 Examples include:
 
-1. Crop Production Trends Over Time
+1. Total agricultural Production by Country(2004-2024)
 
 A time series visualization showing production changes for key crops across multiple years.
 
@@ -150,7 +151,6 @@ agricultural-data-dashboard
 ├── README.md
 │
 └── requirements.txt
-Example Data Pipeline
 
 The project implements a simple data pipeline consisting of the following stages:
 
